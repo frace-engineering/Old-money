@@ -1,0 +1,4 @@
+# 0x19. C - Stacks, Queues - LIFO, FIFO
+
+STACKS & QUEUES IMPLEMENTATION IN C.
+
